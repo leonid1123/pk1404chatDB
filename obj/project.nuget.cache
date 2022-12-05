@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQbSxohf+qp/zNO5TRyNFAdhFX1l9moLB5LWS5SqgTXawZHHGelMefbxJI5GenheseVswRWBpthE+G2z72nZAQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\pk1404chatDB\\pk1404chatDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
